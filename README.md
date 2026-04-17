@@ -1,8 +1,12 @@
-<h1 align="center">Hey 👋 I'm Pakhi</h1>
+<br clear="both">
+
+<h1 align="left">Hey 👋 I'm Pakhi</h1>
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=pakhi-15a&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
@@ -44,13 +48,5 @@
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pakhi-15a/pakhi-15a/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pakhi-15a/pakhi-15a/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pakhi-15a/pakhi-15a/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
